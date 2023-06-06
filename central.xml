@@ -1,0 +1,12 @@
+<admin.CentralDeInformacoes>
+  <todosOsUsuarios>
+    <admin.Administrador>
+      <nome>projeto</nome>
+      <sexo>FEMININO</sexo>
+      <dataNascimento>10007-06-07 03:00:00.0 UTC</dataNascimento>
+      <email>projeto</email>
+      <senha>123456</senha>
+    </admin.Administrador>
+  </todosOsUsuarios>
+  <corridas/>
+</admin.CentralDeInformacoes>

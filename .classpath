@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/activation.jar"/>
+	<classpathentry kind="lib" path="src/dsn.jar"/>
+	<classpathentry kind="lib" path="src/gimap.jar"/>
+	<classpathentry kind="lib" path="src/imap.jar"/>
+	<classpathentry kind="lib" path="src/iText-5.0.5.jar"/>
+	<classpathentry kind="lib" path="src/mailapi.jar"/>
+	<classpathentry kind="lib" path="src/pop3.jar"/>
+	<classpathentry kind="lib" path="src/smtp.jar"/>
+	<classpathentry kind="lib" path="src/xstream-1.4.19.jar"/>
+	<classpathentry kind="lib" path="src/xstream-benchmark-1.4.19.jar"/>
+	<classpathentry kind="lib" path="src/xstream-hibernate-1.4.19.jar"/>
+	<classpathentry kind="lib" path="src/xstream-jmh-1.4.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
